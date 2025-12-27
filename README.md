@@ -3,6 +3,6 @@
 # Desenvolvido por Vellosodev.
 # Ferramenta de Desenvolvimento: Visual Studio.
 # Linguagem de Programação: Python.
-# Biblioteca: Tkinter.
+# Biblioteca: CustomTkinter.
 # Version: 1.0 
 # Projeto desenvolvido para apresentação de portifolio
