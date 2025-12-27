@@ -1,4 +1,4 @@
-# Projeto de Cadsgro de Clientes
+# Projeto de Cadasgro de Clientes
 # Projeto criado e utilizando  o GitHub e GitHub Descktop
 # Desenvolvido por Vellosodev.
 # Ferramenta de Desenvolvimento: Visual Studio.
